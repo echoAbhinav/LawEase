@@ -1,4 +1,4 @@
-# LawEase
+# LawEase (Ongoing)
 
 A huge percentage of rural residents in India face a significant, often overlooked challenge: dealing with legal issues in their daily lives, professional spheres, and communities. Often, they lack awareness of the legal solutions available. To address this, we've created a user-friendly platform to help them navigate these complexities.
 
