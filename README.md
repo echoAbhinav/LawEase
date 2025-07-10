@@ -83,6 +83,9 @@ flowchart TD
    - **Newsletter:** Stay updated with legal news and platform updates.
    - **User Dashboard:** Manage profile, saved solutions, and access support/helpdesk.
 
+<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/bb085ac9-6703-4641-828a-50802130b2b3" />
+
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or new features.
 
