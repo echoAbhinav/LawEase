@@ -47,25 +47,19 @@ LawEase is built using the MERN stack:
 
 ## Web Flow
 
-```mermaid
-flowchart TD
-    A[1. Terms & Conditions / Agree & Continue] --> M[1(a). Landing Page]
-    M --> B[2. Login / Register]
-    B --> C[3. Home / Main Page]
-    C --> D[3(a). Search Major Category Issue]
-    D --> D1[Subcategories]
-    D1 --> D2[i. Multi-Regional Language Solutions]
-    D1 --> D3[ii. Video Content]
-    D1 --> D4[iii. Find a Lawyer]
-    D4 --> D5[Payment Gateway]
-    C --> E[3(b). Chat-Bot]
-    C --> F[3(c). FAQ]
-    C --> G[3(d). About Us / Contact Us]
-    C --> H[3(e). Newsletter]
-    C --> I[3(f). User Dashboard]
-    I --> J[Profile Management]
-    I --> K[Saved Solutions]
-    I --> L[Support / Helpdesk]
+```
+Terms & Conditions
+├── 2. Login Page
+└── 3. Home/Main Page
+├── 3(a). Search by Category
+│ ├── Subcategories
+│ │ ├── i. Multi-language Solutions
+│ │ ├── ii. Video Content
+│ │ └── iii. Find a Lawyer → Payment Gateway
+├── 3(b). AI Chat-Bot
+├── 3(c). FAQ Section
+├── 3(d). About/Contact
+└── 3(e). Newsletter
 ```
 
 ### Flow Description
@@ -82,9 +76,6 @@ flowchart TD
    - **About Us/Contact Us:** Learn about the platform and reach out for support.
    - **Newsletter:** Stay updated with legal news and platform updates.
    - **User Dashboard:** Manage profile, saved solutions, and access support/helpdesk.
-
-<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/bb085ac9-6703-4641-828a-50802130b2b3" />
-
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or new features.
