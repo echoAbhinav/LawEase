@@ -81,4 +81,4 @@ Terms & Conditions
 Contributions are welcome! Please open an issue or submit a pull request for improvements or new features.
 
 ## Contact
-For questions or support, please contact the project maintainer via GitHub Issues.
+For questions or support, please contact the project maintainer via GitHub Issues...
